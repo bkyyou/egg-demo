@@ -31,3 +31,7 @@ $ npm stop
 
 
 [egg]: https://eggjs.org
+
+### 访问
+
+http://10.155.30.205:30111/

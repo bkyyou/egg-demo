@@ -5,7 +5,8 @@ const Controller = require('egg').Controller;
 class userController extends Controller {
   async info() {
     const ctx = this.ctx;
-    ctx.body = 'user info';
+    ctx.status = 200;
+    ctx.body = 'egg-demo user info';
   }
 }
 

@@ -1,0 +1,20 @@
+{
+  "index.js": "/public/js/index.js",
+  "runtime.js": "/public/js/runtime.js",
+  "common.js": "/public/js/common.js",
+  "deps": {
+    "index.js": {
+      "js": [
+        "/public/js/runtime.js",
+        "/public/js/common.js",
+        "/public/js/index.js"
+      ],
+      "css": []
+    }
+  },
+  "info": {
+    "publicPath": "/public/",
+    "buildPath": "public",
+    "mapped": true
+  }
+}
