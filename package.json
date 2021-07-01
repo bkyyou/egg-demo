@@ -43,7 +43,7 @@
     "react-router-config": "^5.0.1",
     "react-router-dom": "^5.0.1",
     "react-router-redux": "^4.0.8",
-    "react-scripts": "3.4.3",
+    "react-scripts": "^3.4.3",
     "redux": "^4.0.1",
     "redux-thunk": "^2.3.0",
     "shortid": "^2.2.8"
@@ -84,7 +84,8 @@
     "cov": "egg-bin cov",
     "lint": "eslint .",
     "ci": "npm run lint && npm run cov",
-    "autod": "autod"
+    "autod": "autod",
+    "build": "react-scripts build"
   },
   "ci": {
     "version": "10"

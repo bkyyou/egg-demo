@@ -14,6 +14,7 @@ see [egg docs][egg] for more detail.
 $ npm i
 $ npm run dev
 $ open http://localhost:7001/
+http://10.155.30.205:30111/
 ```
 
 ### Deploy
